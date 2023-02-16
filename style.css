@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(164, 200, 232); //cor de fundo 
+}
+h1 { 
+    border-bottom-style: inset;
+ }
+.tarefa-selecionada { 
+    color: rgb(6, 106, 12);  //selecao da tarefa muda sua cor para verde
+    font-style: italic; 
+}
+.tarefa-normal {
+     color: black; //tarefa comum sem estar selecionada, nome na lista inserida
+    }
